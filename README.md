@@ -11,7 +11,8 @@ This project demonstrates administration of a Microsoft 365 environment using Mi
   - Sophia S
   - Virgil C
   - Joaquin G
- 
+    
+ ![Lab Environment](home-page.png)
 ## User Administration
 **User Creation**
 Created and managed user accounts through the Microsoft 365 Admin Center.
